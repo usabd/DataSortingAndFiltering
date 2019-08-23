@@ -11,4 +11,4 @@ in the project i impemeted
 - Junit5 --> prof of concept in SystemUtilTest
 - SAX for reading XML
 - JDoc to document classess.
-- log4j.
+- logger.
