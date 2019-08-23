@@ -8,7 +8,7 @@ Documentations : ReportsReader\target\documentation\index.html
 
 in the project i impemeted 
 - Maven.
-- Junit5
+- Junit5 --> prof of concept in SystemUtilTest
 - SAX for reading XML
 - JDoc to document classess.
 - log4j.
